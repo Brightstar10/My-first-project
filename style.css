@@ -1,0 +1,29 @@
+body {
+    background-color: palevioletred;
+
+}
+p {
+    color: white;
+}
+
+em{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+footer{
+    text-align: center;
+    color:white;
+}
+header{
+    color: thistle;
+    text-align: center;
+}
+img{
+   width: 100%;
+   height: 350px;
+   object-fit: cover;
+   object-position: 0% 20%;
+}
+    
+    
